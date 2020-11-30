@@ -1,0 +1,28 @@
+{
+  "name": "wdio-cucumber-qatouch-reporter",
+  "version": "1.0.0",
+  "description": "A Qa Touch reporter for webdriver.io with cucumber framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spec",
+    "qatouch",
+    "reporter",
+    "webdriverio",
+    "cucumber",
+    "wdio",
+    "wdio-plugin",
+    "wdio-reporter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdckap/wdio-qatouch-cucumber-reporter.git"
+  },
+  "author": "Qa Touch",
+  "dependencies": {
+    "sync-request": "^4.1.0"
+  },
+  "license": "MIT"
+}
