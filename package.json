@@ -1,6 +1,6 @@
 {
   "name": "wdio-cucumber-qatouch-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Qa Touch reporter for webdriver.io with cucumber framework",
   "main": "lib/index.js",
   "scripts": {

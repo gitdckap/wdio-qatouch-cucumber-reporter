@@ -58,6 +58,7 @@ Only passed, untested and failed tests will be published in QA Touch Test Run.
 **testRunId**: *number* test run Id with which the tests are associated
 
 ## References
+- https://www.npmjs.com/package/wdio-cucumber-qatouch-reporter
 - https://qatouch.com/
 - https://help.qatouch.com/
 - https://doc.qatouch.com/
